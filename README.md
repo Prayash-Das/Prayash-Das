@@ -1,4 +1,4 @@
-![logo](https://github.com/Prayash-Das/Prayash-Das/blob/main/Banner.png)
+![logo](https://github.com/Prayash-Das/Prayash-Das/blob/main/Banner_2.png)
 <h1 align="center">Hi 👋, I'm Prayash Das</h1>
 <h3 align="center">A passionate Applied AI developer deeply committed to advancing AI innovation and technology.</h3>
 
