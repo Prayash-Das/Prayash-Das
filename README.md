@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently studying MS in Applied AI **at Stevens Institution of Technology**
 
-- 🌱 I’m currently learning **Applied Data Structures and Algorithms, Data Acquisition, Modeling and Analysis: Deep Learning**
+- 🌱 I’m currently learning **Introduction to Robotics, Applied Modeling and Optimization and, Big Data Analytics.**
 
-- 📫 How to reach me **pdas4@stevens.edu**
+- 📫 How to reach me **dasprayash07@gmail.com**
 
 - ⚡ Fun fact **I think I am funny😃**
 
