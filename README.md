@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying MS in Applied AI **at Stevens Institution of Technology**
 
-- 🌱 I’m currently learning **Introduction to Robotics, Applied Modeling and Optimization and, Big Data Analytics.**
+- 🌱 I’m currently working on **Vision Transformers and Decoder Architecture**
 
 - 📫 How to reach me **dasprayash07@gmail.com**
 
