@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prayash-das&label=Profile%20views&color=0e75b6&style=flat" alt="prayash-das" /> </p>
 
-- 🔭 I’m currently studying MS in Applied AI **at Stevens Institution of Technology**
+- 🔭 I’m completed MS in Applied AI **at Stevens Institution of Technology**
 
 - 🌱 I’m currently working on **Vision Transformers and Decoder Architecture**
 
